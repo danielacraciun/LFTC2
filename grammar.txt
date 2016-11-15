@@ -1,0 +1,6 @@
+S C
+a b c d #
+S
+S->aB|cC|#
+S->c
+C->b
