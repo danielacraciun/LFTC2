@@ -6,4 +6,4 @@ Write a program that:
 4. Reads the elements of a FA (from keyboard and from file)  
 5. Displays the elements of a finite automata, using a menu: the set of states, the alphabet, all the transitions, the set of final state.  
 6. Given a regular grammar constructs the corresponding finite automaton.  
-7. Given a finite automaton constructs the corresponding regular grammar.  
+7. Given a finite automaton constructs the corresponding regular grammar (not working properly).  
